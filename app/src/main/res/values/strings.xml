@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">smartbus</string>
+    <string name="logo">SmartBus</string>
+    <string name="AddPhone">Номер Телефона</string>
+    <string name="LogIn">Войти</string>
+    <string name="no_user_input">Введите номер телефона</string>
+    <string name="fare_payment">Оплатить проезд</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="password">Пароль</string>
+    <string name="username">Имя</string>
+    <string name="email">Email</string>
+</resources>
